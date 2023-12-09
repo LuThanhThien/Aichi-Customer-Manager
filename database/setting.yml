@@ -1,0 +1,11 @@
+dtype:
+  Name: str
+  Gender: opt
+  Birthday: date
+  Phone Number: number
+  Facebook: str
+  Certificate Type: opt
+  Document ID: number
+  Register Date: date
+  Theory Test Date: date
+  Practice Test Date: date

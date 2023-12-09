@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Aichi-Customer-Management-System
+Version: 0.0.1
+Author: Lu Thanh Thien
+Author-email: luthien5921@gmail.com
+Requires-Dist: numpy
+Requires-Dist: tqdm
+Requires-Dist: matplotlib
+Requires-Dist: pandas
+Requires-Dist: tk
+Requires-Dist: customtkinter
+Requires-Dist: pillow

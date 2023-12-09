@@ -1,0 +1,23 @@
+numpy
+tqdm
+matplotlib
+pandas
+pyyaml
+tk
+# customtkinter
+# tkcalendar
+ttkbootstrap
+pillow
+
+# ultralytics 
+# opencv-python
+# torch
+# torchvision
+# torchtext
+# torchdata
+# tensorboard
+
+-e .
+
+# virtualenv --python="C:\Users\USER\AppData\Local\Programs\Python\Python310\python.exe" venv
+# virtualenv --python="C:\Users\USER\AppData\Local\Programs\Python\Python311\python.exe" venv
